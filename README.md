@@ -1,4 +1,4 @@
-# Airbnb Price Prediction
+# Airbnb Price Prediction &nbsp; &nbsp; <img alt="airbnb_logo.png" src="airbnb_logo.png" width="55" height="75">
 
 In view of the number of housing units in Paris, how to define a fair price according to the location, the equipment or the capacity of a unit?
 

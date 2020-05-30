@@ -1,3 +1,2 @@
-test_airbnb.csv
-train_airbnb.csv
 .DS_Store
+__pycache__/

@@ -10,7 +10,6 @@ Since tree-based models such as XGBoost or CatBoost have proven to be the new be
 Unsurprisingly, some of these turned up to be the neighborhood, the number of accommodates and the number of bedrooms.<br>
 If you want more details of what was done, feel free to check out the keynote presentation of this repository: [`keynote_pres.pdf`](keynote_pres.pdf).
 
-**Dates:** November - December 2019<br>
 This project was part of an in-class Kaggle competition, for the Quantitative marketing course at Toulouse School of Economics.
 
 ## Installation of libraries
